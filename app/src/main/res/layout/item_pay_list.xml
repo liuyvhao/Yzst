@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_pay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginRight="4dp"
+        android:background="@drawable/btn_pay_bg"
+        android:text="10元"
+        android:textColor="@color/btn_pay_txt"
+        android:textSize="16sp" />
+</LinearLayout>
